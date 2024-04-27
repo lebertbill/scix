@@ -1,0 +1,24 @@
+This document describes our privacy policy and what are all the information we collect through SciX.
+
+OUR PRINCIPLES:
+SciX values the importance of privacy in your research. Our mission is to provide zero cost and 100% secure tools for researchers.  
+
+PRIVACY POLICY:
+1. The downloaded documents are stored only in the selected storage location in SciX.
+2. We never upload your documents to our database, or we never trace your work.
+3. The log files stored in documents can collect error/bug in SciX, which you can choose to send us through email for providing a better experience.
+4. Since all the documents are stored locally, you are responsible for your data.
+5. SearchX is not meant to be used as your regular browser. Read our terms and conditions for more info.
+6. FeedsX can provide you useful information and advertisements. You can read more about its policy at the FeedsX page.
+
+INFORMATION WE COLLECT:
+We collect the following information whenever you run our services,
+1. Your IP address,
+2. Your location,
+3. Operating system version,
+4. SciX version,
+5. System processor details.
+All these collected data are used to improve our services.
+
+For more queries, please mail us at service@scix.in
+This privacy policy was last updated on 22/10/2020

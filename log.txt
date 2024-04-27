@@ -1,0 +1,4 @@
+
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+HTTPSConnectionPool(host='sci-hub.tw', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000023B953ACD60>: Failed to establish a new connection: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond'))
