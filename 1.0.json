@@ -1,0 +1,109 @@
+{
+ "version": "auto-py-to-exe-configuration_v1",
+ "pyinstallerOptions": [
+  {
+   "optionDest": "noconfirm",
+   "value": true
+  },
+  {
+   "optionDest": "filenames",
+   "value": "C:/Users/LeBert/PycharmProjects/alpha/main.py"
+  },
+  {
+   "optionDest": "onefile",
+   "value": false
+  },
+  {
+   "optionDest": "console",
+   "value": false
+  },
+  {
+   "optionDest": "icon_file",
+   "value": "C:/Users/LeBert/PycharmProjects/alpha/ico/051.ico"
+  },
+  {
+   "optionDest": "name",
+   "value": "SciX"
+  },
+  {
+   "optionDest": "ascii",
+   "value": false
+  },
+  {
+   "optionDest": "clean_build",
+   "value": false
+  },
+  {
+   "optionDest": "key",
+   "value": "samlebertbillgat"
+  },
+  {
+   "optionDest": "strip",
+   "value": false
+  },
+  {
+   "optionDest": "noupx",
+   "value": false
+  },
+  {
+   "optionDest": "uac_admin",
+   "value": true
+  },
+  {
+   "optionDest": "uac_uiaccess",
+   "value": false
+  },
+  {
+   "optionDest": "win_private_assemblies",
+   "value": true
+  },
+  {
+   "optionDest": "win_no_prefer_redirects",
+   "value": false
+  },
+  {
+   "optionDest": "bootloader_ignore_signals",
+   "value": false
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/LeBert/PycharmProjects/alpha/color.ui;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/LeBert/PycharmProjects/alpha/service.dll;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/LeBert/PycharmProjects/alpha/ico;ico/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/LeBert/PycharmProjects/alpha/build;build/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/LeBert/PycharmProjects/alpha/web;web/"
+  },
+  {
+   "optionDest": "excludes",
+   "value": "download"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/LeBert/PycharmProjects/alpha/license.txt;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/LeBert/PycharmProjects/alpha/Privacy policy.txt;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/LeBert/PycharmProjects/alpha/Terms and Conditions.txt;."
+  }
+ ],
+ "nonPyinstallerOptions": {
+  "increaseRecursionLimit": true,
+  "manualArguments": ""
+ }
+}
