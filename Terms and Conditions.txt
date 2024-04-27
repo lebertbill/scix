@@ -1,0 +1,19 @@
+TERMS AND CONDITIONS
+These terms and conditions apply to all our SciX products. By using any of our services, you have bound to our terms and conditions automatically.
+
+1. Be aware of the content you are downloading/importing documents into SciX. Always make sure you have legal access to the content.
+2. SciX has been designed to download any direct pdf link. We are strongly against downloading copyrighted content illegally.
+3. We are not responsible for the content you are downloading. We advise using SciX fairly.
+4. Make sure you comply with the copyright law in your country.
+5. We collect all the references from the Crossref database, make sure to follow their terms and privacy policy.
+6. The collected information (see our privacy policy) is used only for improving user experience.
+7. FeedsX has been designed to provide useful information and advertisements. Stay updated with the FeedsX policy and terms as we improve that section.
+8. We strongly advise not to sign in/signup any accounts and use payment services using the SearchX browser. SearchX is an underdeveloped browser which 
+   is meant to be used only for quick searches. To learn more, you can read the pyqt5 documentation on Qwebengine.
+9. You may not decompile, reverse engineer in an attempt to get source code. If so, then you are under applicable law, and we have the right to 
+   take action.  However, SciX is an open-source software. To know more, read the license file.
+10. We may send promotions, updates about our new services using the personal info we collect from our websites.
+11. SciX requires administrator privilege to run since it stores data wherever you chose locally.
+12. We collect error logs in your system which you can send us manually to improve our service.
+13. Under any circumstances, we are not responsible for any loss/damage of data in your device.
+14. SciX is licensed under GNU General public license. Check the license file for more information.
